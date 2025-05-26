@@ -5,9 +5,9 @@ Este repositorio contiene la prueba técnica para el puesto en prácticas en Bol
 Una vez exportado a su versión .jar podemos ejecutarlo por la terminal con `java -jar` en el caso de Java.
 En el caso de Python exportaríamos una versión .exe que ejecutaríamos directamente sin depender de python.
 Podemos ejecutar ambas versiones de 3 maneras distintas:
-- 0 argumentos: Al no tener argumentos pedirá por terminal las rutas de los archivos de entrada y de salida.
-- 1 argumento:  Al dar solo un argumento (ruta del archivo de entrada) devolverá el archivo de salida en la misma ruta que el de entrada con el mismo nombre y en el nuevo formato.
-- 2 argumentos: Al dar los dos argumentos leerá el archivo de entrada según su ruta y devolverá el nuevo archivo a la nueva ruta. En caso de que se exporte a un directorio que no existe lo creará.
+- `0 argumentos`: Al no tener argumentos pedirá por terminal las rutas de los archivos de entrada y de salida.
+- `1 argumento`:  Al dar solo un argumento (ruta del archivo de entrada) devolverá el archivo de salida en la misma ruta que el de entrada con el mismo nombre y en el nuevo formato.
+- `2 argumentos`: Al dar los dos argumentos leerá el archivo de entrada según su ruta y devolverá el nuevo archivo a la nueva ruta. En caso de que se exporte a un directorio que no existe lo creará.
 ## Estructura del Repositorio
 ### [Proyecto de Java](https://github.com/PabloParapar/PT_Boldestio/tree/main/PT_Boldestio_Java)
 El proyecto de Java está construido con Gradle y utiliza las siguientes dependencias:
