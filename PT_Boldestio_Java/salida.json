@@ -1,0 +1,424 @@
+{
+  "syncData": [
+    {
+      "externalID": "TOUR001",
+      "title_es": "La Toscana, descubre el alma de Italia",
+      "htmlDescription_es": "Encanto eterno, colinas onduladas, historia y cultura. \u00a1Bienvenido a este pedacito de para\u00edso en la tierra!",
+      "htmlContent_es": "La Toscana, con su exuberante paisaje de colinas, vi\u00f1edos y olivares, es una tierra de belleza inigualable y encanto eterno. En sus antiguas ciudades empedradas, la historia, la cultura y la naturaleza se entrelazan en una armon\u00eda perfecta. Impresionantes fortalezas y majestuosas catedrales son testigos de civilizaciones que dejaron su huella en esta tierra. Exploraremos la rica historia de ciudades como Florencia, Siena y Pisa, donde la arquitectura renacentista y medieval nos transporta a otra \u00e9poca. La Toscana nos recuerda que la vida es un viaje lleno de belleza, historia y momentos inolvidables. Bienvenidos a este rinc\u00f3n de para\u00edso en la tierra.",
+      "program": [
+        {
+          "day": "D1",
+          "title_es": "D\u00eda 1. Llegada a Venecia",
+          "htmlContent_es": "Al llegar al Aeropuerto de Venecia, nuestro conductor privado nos recoger\u00e1 para llevarnos primero por carretera, y despu\u00e9s en barca privada por los canales, al hotel.",
+          "resourceIDs": [
+            {
+              "externalID": "IT001",
+              "title_es": "Venecia",
+              "htmlDescription_es": "Venecia, la Serenissima, una fusi\u00f3n de sue\u00f1os y realidad en sus canales y callejones. La magia y la poes\u00eda de la vida se encuentran en cada rinc\u00f3n.",
+              "htmlContent_es": "Venecia encanta con sus canales, callejones adoquinados y atm\u00f3sfera m\u00e1gica. La Plaza de San Marcos, con la majestuosa Bas\u00edlica y el Campanario, es un escenario de cuento de hadas. La ciudad es m\u00e1s que apariencia; sus callejones revelan trattorias locales y vistas de agua. Descubre tesoros culturales como la Galer\u00eda de la Academia y el Palacio Ducal, que cuentan historias de ingenio y pasi\u00f3n. Sum\u00e9rgete en mercados locales como Rialto, llenos de colores y sabores aut\u00e9nticos. Venecia es un viaje en el tiempo, una poes\u00eda de vida que inspira a descubrir, so\u00f1ar y enamorarse de la belleza que ofrece. Deja huellas imborrables en el alma.",
+              "locationLat": "45.43365258334600",
+              "locationLon": "12.32427342928390"
+            }
+          ]
+        },
+        {
+          "day": "D2",
+          "title_es": "D\u00eda 2. Venecia",
+          "htmlDescription_es": "Exploraremos Venecia con gu\u00eda local: Piazza San Marco, Bas\u00edlica, Palacio Ducal y Puente de los Suspiros. Historias \u00fanicas y belleza excepcional. ",
+          "htmlContent_es": "Saldremos a pasear junto a nuestra anfitriona local por el centro de Venecia, una ciudad \u00fanica con sus palacios, canales y la elegancia de sus monumentos. El recorrido empezar\u00e1 en la vibrante Piazza de San Marco dominada por el campanario y la Bas\u00edlica del mismo nombre, nuestra anfitriona nos contar\u00e1 historias y an\u00e9cdotas que no se encuentran en ninguna gu\u00eda de papel de la ciudad. A continuaci\u00f3n, visitaremos la Bas\u00edlica de San Marco, una joya arquitect\u00f3nica de rara belleza, con sus cinco c\u00fapulas y la legendaria Pala du0027 Oro, que forma parte del Tesoro de San Marco. Nuestra visitara seguir\u00e1 hasta el Palacio Ducal, donde pasearemos por las lujosas estancias y visitaremos su galer\u00eda de arte. La visita finalizar\u00e1 en el Puente de los Suspiros, llamado as\u00ed porque seg\u00fan la leyenda los prisioneros, al cruzarlo, suspiraban ante la perspectiva de ver el mundo exterior por \u00faltima vez. Alojamiento en Venecia.",
+          "resourceIDs": [
+            {
+              "externalID": "IT002",
+              "submap": "IT001",
+              "title_es": "Piazza de San Marco",
+              "htmlDescription_es": "Tambi\u00e9n conocida como la Plaza de San Marcos, es un lugar de ensue\u00f1o que cautiva los corazones de quienes tienen la fortuna de caminar sobre sus adoquines centenarios.",
+              "htmlContent_es": "Rodeada por majestuosos edificios, como la Bas\u00edlica de San Marcos y el Campanile, la plaza se caracteriza por su arquitectura bizantina y renacentista. Los viajeros quedan maravillados por el suelo de mosaico y los detalles art\u00edsticos que adornan la bas\u00edlica. Adem\u00e1s, los caf\u00e9s al aire libre ofrecen una experiencia inigualable para degustar caf\u00e9 o aperitivos mientras se disfruta de la m\u00fasica en vivo. Es un epicentro cultural y social, donde viajeros y locales se re\u00fanen para empaparse de la historia, el arte y la animada atm\u00f3sfera veneciana.",
+              "locationLat": "45.43430978794290",
+              "locationLon": "12.338482435232100"
+            },
+            {
+              "externalID": "IT003",
+              "submap": "IT001",
+              "title_es": "Bas\u00edlica de San Marco",
+              "htmlDescription_es": "Arquitectura celestial, historia, y espiritualidad en un lugar eterno.",
+              "htmlContent_es": "Su exterior deslumbra con intrincados mosaicos dorados que cuentan historias b\u00edblicas y motivos ornamentales. El campanario, Campanile, se yergue majestuoso junto a ella. En el interior, impresionantes columnas y arcos bizantinos conducen a un santuario con altares y tesoros sagrados. Los mosaicos intrincados y su c\u00fapula son deslumbrantes. Esta bas\u00edlica, una obra maestra arquitect\u00f3nica, es un s\u00edmbolo de la riqueza, la fe y la historia de Venecia, atrayendo a admiradores de todo el mundo.",
+              "locationLat": "45.43465841310790",
+              "locationLon": "12.339798235444000"
+            },
+            {
+              "externalID": "IT004",
+              "submap": "IT001",
+              "title_es": "Palacio Ducal",
+              "htmlDescription_es": "Un tesoro arquitect\u00f3nico y cultural a orillas del Canal de San Marcos.",
+              "htmlContent_es": "Este palacio g\u00f3tico, construido en el siglo XIV, destaca por su imponente fachada y su intrincada combinaci\u00f3n de estilos arquitect\u00f3nicos. En su interior, exuda opulencia renacentista con salones majestuosos, obras de arte y detalles ornamentales. Los viajeros pueden recorrer los aposentos del dogo, la Sala del Gran Consejo y atravesar el famoso Puente de los Suspiros que conecta con las antiguas prisiones. Este edificio no solo es una obra maestra arquitect\u00f3nica, sino un testigo de la riqueza, poder y la historia pol\u00edtica de la Rep\u00fablica de Venecia, cautivando a quienes lo visitan.",
+              "locationLat": "45.43382390124610",
+              "locationLon": "12.340464507607600"
+            },
+            {
+              "externalID": "IT005",
+              "submap": "IT001",
+              "title_es": "Puente de los Suspiros",
+              "htmlDescription_es": "Un enlace entre la historia y la leyenda, donde la arquitectura y el romance se entrelazan en un abrazo eterno.",
+              "htmlContent_es": "Este puente de piedra de estilo barroco se extiende sobre el Rio di Palazzo y conecta el Palacio Ducal con las antiguas prisiones. Llamado as\u00ed por los suspiros que se dec\u00eda emit\u00edan los prisioneros al pasar por \u00e9l, es conocido por su arquitectura encantadora y ventanas con celos\u00edas. La leyenda sugiere que el puente es testigo de los \u00faltimos suspiros de los condenados que contemplaban por \u00faltima vez la belleza de Venecia. Es un s\u00edmbolo de historia, romance y misterio que evoca la nostalgia de tiempos pasados.",
+              "locationLat": "45.43423776051670",
+              "locationLon": "12.340875866228900"
+            },
+            {
+              "externalID": "IT006",
+              "submap": "IT001",
+              "title_es": "Puente Rialto",
+              "htmlDescription_es": "Ic\u00f3nico en Venecia, es una obra maestra renacentista de m\u00e1rmol y piedra que cruza el Gran Canal.",
+              "htmlContent_es": "Dise\u00f1ado por Antonio da Ponte en 1591, su arquitectura de arcos y escaleras dobles es emblem\u00e1tica. Con una longitud de 48 metros, destaca por su elegancia y simetr\u00eda, siendo un s\u00edmbolo de la ingenier\u00eda veneciana. Sus barandas adornadas y vistas panor\u00e1micas hacen del paseo una experiencia cautivadora. El Rialto une hist\u00f3ricos barrios comerciales, invitando a explorar tiendas y mercados cercanos. Iluminado de noche, se transforma en un escenario m\u00e1gico que refleja siglos de historia, comercio y la belleza atemporal de Venecia.",
+              "locationLat": "45.43808203783840",
+              "locationLon": "12.336241318803300"
+            }
+          ]
+        },
+        {
+          "day": "D3",
+          "title_es": "D\u00eda 3. Verona ",
+          "htmlDescription_es": "Exploramos Verona, ciudad del romance y la poes\u00eda, donde cada rinc\u00f3n rebosa amor y drama. Luego, viajamos a Florencia, cuna del Renacimiento, donde historia, arte y cultura se entrelazan.",
+          "htmlContent_es": "En Verona, la ciudad del romance y la poes\u00eda, exploramos su historia y su encanto. Desde la amplia Plaza Bra y la majestuosa Arena de Verona hasta la elegante Piazza dei Signori y la Casa de Julieta, cada rinc\u00f3n se llena de amor y drama. Continuremos hasta a Florencia, cuna del Renacimiento, donde nos aguardan nuevas aventuras y la grandeza humana en su m\u00e1xima expresi\u00f3n. La historia, el arte y la cultura se entrelazan en esta ciudad. Alojamiento en Florencia.",
+          "resourceIDs": [
+            {
+              "externalID": "IT007",
+              "title_es": "Verona",
+              "htmlDescription_es": "Una ciudad renacentista llena de encanto y rica en historia literaria.",
+              "htmlContent_es": "Sus calles empedradas y edificios de terracota cuentan historias centenarias mientras el sol ba\u00f1a la ciudad con su luz dorada. La majestuosa Arena de Verona, un antiguo anfiteatro, atestigua siglos de actuaciones y pasiones. Puentes de piedra cruzan el r\u00edo Adige, ofreciendo vistas impresionantes. El aroma de la deliciosa cocina italiana llena el aire, tentando a los visitantes a probar platos tradicionales en acogedores restaurantes. Verona es un crisol de culturas y tradiciones que se mezclan en la modernidad sin perder su esencia. La ciudad, famosa por ser el escenario de \"Romeo y Julieta\" de Shakespeare, es un lugar donde los sue\u00f1os se hacen realidad y el amor perdura en cada rinc\u00f3n.",
+              "locationLat": "45.43775663369280",
+              "locationLon": "10.993578413068900"
+            },
+            {
+              "externalID": "IT008",
+              "submap": "IT007",
+              "title_es": "Arena de Verona",
+              "htmlDescription_es": "Un impresionante anfiteatro romano, es un monumento que trasciende el tiempo y la arquitectura. ",
+              "htmlContent_es": "Este anfiteatro romano, construido en el siglo I d.C., es famoso por su magn\u00edfica estructura, una de las mejor conservadas de su tipo. Con su impresionante fachada de piedra rosada, la Arena es un emblema de la antigua Roma. En la actualidad, alberga magn\u00edficas representaciones art\u00edsticas, principalmente \u00f3pera y conciertos, atrayendo a amantes de la m\u00fasica y la cultura de todo el mundo. Este hist\u00f3rico coliseo es un lugar donde la historia cobra vida y el arte resuena, celebrando la riqueza del pasado y la creatividad contempor\u00e1nea.",
+              "locationLat": "45.43913124736630",
+              "locationLon": "10.99437886379070"
+            },
+            {
+              "externalID": "IT009",
+              "submap": "IT007",
+              "title_es": "Casa de Julieta",
+              "htmlDescription_es": "Un lugar m\u00e1gico donde la leyenda se funde con la realidad. ",
+              "htmlContent_es": "Este edificio medieval cuenta con un balc\u00f3n caracter\u00edstico desde donde se cree que Julieta pronunci\u00f3 sus palabras de amor. Los viajeros pueden explorar las habitaciones hist\u00f3ricas y el ic\u00f3nico balc\u00f3n, capturando la esencia de la tr\u00e1gica historia de amor. El lugar tambi\u00e9n alberga una colecci\u00f3n de cartas de amor dejadas por visitantes en la pared. La Casa de Julieta se ha convertido en un destino para los amantes y un s\u00edmbolo del amor eterno, atrayendo a quienes desean revivir la leyenda atemporal de Romeo y Julieta.",
+              "locationLat": "45.44212187828700",
+              "locationLon": "10.99870232336070"
+            }
+          ]
+        },
+        {
+          "day": "D4",
+          "title_es": "D\u00eda 4. Florencia y San Gimignano",
+          "htmlDescription_es": "Exploramos la Toscana desde Florencia, descubriendo su riqueza art\u00edstica, la majestuosidad de la Catedral de Santa Maria del Fiore y el encanto de San Gimignano",
+          "htmlContent_es": "Iniciamos un fascinante viaje al coraz\u00f3n de la Toscana, en la espl\u00e9ndida Florencia, la joya renacentista. Acompa\u00f1ados por nuestro anfitri\u00f3n local, Javier, exploramos las calles empedradas llenas de secretos art\u00edsticos. La majestuosa Catedral de Santa Maria del Fiore y el Baptisterio, con sus Puertas del Para\u00edso, nos maravillan. En la Iglesia de la Santa Croce conocemos historias de grandeza y virtuosismo, y el legendario Puente Viejo se alza con gracia sobre el r\u00edo Arno. Luego, nos dirigimos a la encantadora San Gimignano, una joya medieval en lo alto de las colinas toscanas, donde el tiempo parece haberse detenido. Descubrimos sus secretos, exploramos la Plaza de la Cisterna y ascendemos a la Roca de Montescaffoli para una vista impresionante antes de despedirnos en la Iglesia de San Agustino. Alojamiento en Florencia.",
+          "resourceIDs": [
+            {
+              "externalID": "IT010",
+              "title_es": "Florencia",
+              "htmlDescription_es": "Una joya renacentista de Italia que cautiva con su esplendor art\u00edstico y cultural. ",
+              "htmlContent_es": "Ba\u00f1ada por el r\u00edo Arno, esta ciudad encarna la esencia del Renacimiento con sus majestuosos monumentos, galer\u00edas de arte y c\u00fapulas c\u00e9lebres. La Catedral de Santa Mar\u00eda del Fiore, con su imponente Duomo y el Campanile de Giotto, domina el horizonte. Las estrechas calles adoquinadas revelan la historia en cada esquina: el Palazzo Vecchio, la Galer\u00eda de la Academia con el David de Miguel \u00c1ngel, y los Uffizi con su tesoro art\u00edstico.",
+              "locationLat": "43.76674436579250",
+              "locationLon": "11.260861430937600"
+            },
+            {
+              "externalID": "IT011",
+              "submap": "IT010",
+              "title_es": "Catedral de Santa Maria del Fiore",
+              "htmlDescription_es": "Icono renacentista, c\u00fapula ic\u00f3nica de Brunelleschi, maestr\u00eda en m\u00e1rmol, frescos y espiritualidad.",
+              "htmlContent_es": "Su majestuosa c\u00fapula domina el horizonte, dise\u00f1ada por Filippo Brunelleschi, una haza\u00f1a innovadora de ingenier\u00eda. El campanario de Giotto y el baptisterio de San Juan complementan su grandeza. La fachada de m\u00e1rmol policromado es un ejemplo del estilo g\u00f3tico toscano. En su interior, frescos de artistas como Vasari y Zuccari decoran la c\u00fapula y la nave. El interior tambi\u00e9n alberga obras de arte y tesoros sacros. Es un monumento a la habilidad humana y la creatividad que simboliza la riqueza art\u00edstica y espiritual de Florencia.",
+              "locationLat": "43.773330874215600",
+              "locationLon": "11.255928021071000"
+            },
+            {
+              "externalID": "IT012",
+              "submap": "IT010",
+              "title_es": "Baptisterio de San Juan",
+              "htmlDescription_es": "Un edificio medieval de notable belleza e importancia hist\u00f3rica.",
+              "htmlContent_es": "Conocido por sus puertas de bronce, incluyendo la Puerta del Para\u00edso de Ghiberti, es un icono del arte renacentista y g\u00f3tico toscano. La estructura octogonal presenta una impresionante c\u00fapula y elegantes mosaicos en su interior, que narran historias b\u00edblicas y escenas religiosas. La ac\u00fastica \u00fanica del baptisterio permite experimentar los coros gregorianos de manera excepcional. Su historia se entrelaza con la de la cercana Catedral de Santa Maria del Fiore, y su presencia en la Piazza del Duomo lo convierte en una parada esencial para quienes exploran la riqueza art\u00edstica y cultural de Florencia.",
+              "locationLat": "43.77325478392260",
+              "locationLon": "11.255312886377800"
+            },
+            {
+              "externalID": "IT013",
+              "submap": "IT010",
+              "title_es": "Puertas del Para\u00edso",
+              "htmlDescription_es": "Una obra maestra en bronce, narraci\u00f3n b\u00edblica vivaz, t\u00e9cnica renacentista excepcional.",
+              "htmlContent_es": "Estas obras maestras del Renacimiento italiano son c\u00e9lebres por su detalle exquisito y narrativas b\u00edblicas en bajorrelieve. Cada panel muestra escenas elaboradas, que incluyen historias del Antiguo y Nuevo Testamento, deslumbrando por su expresi\u00f3n art\u00edstica y t\u00e9cnica magistral. Ghiberti dedic\u00f3 a\u00f1os a su realizaci\u00f3n, y su trabajo elev\u00f3 la fundici\u00f3n de bronce a nuevas alturas. Las Puertas del Para\u00edso han influido en generaciones de artistas, siendo un monumento art\u00edstico emblem\u00e1tico que captura la esencia del Renacimiento en Florencia.",
+              "locationLat": "43.773244143183000",
+              "locationLon": "11.255733904940400"
+            },
+            {
+              "externalID": "IT014",
+              "submap": "IT010",
+              "title_es": "Ponte Vecchio",
+              "htmlDescription_es": "El ic\u00f3nico puente de Florencia es un rom\u00e1ntico enlace con la historia y el arte.",
+              "htmlContent_es": "Conocido por sus tiendas que se extienden a lo largo del puente, es \u00fanico por albergar comercios desde hace siglos, principalmente joyer\u00edas y tiendas de artesan\u00eda. Su estructura presenta tres arcos elegantes sobre el r\u00edo Arno y est\u00e1 coronada por una pasarela cubierta. El Ponte Vecchio es un despliegue de color, con fachadas coloridas que se reflejan en las aguas del r\u00edo. Es un punto de encuentro para turistas y locales, que disfrutan de su belleza y ambiente vibrante, capturando la esencia hist\u00f3rica y comercial de Florencia.",
+              "locationLat": "43.76805665573440",
+              "locationLon": "11.253111318742900"
+            },
+            {
+              "externalID": "IT015",
+              "title_es": "San Gimignano ",
+              "htmlDescription_es": "La \"ciudad de las torres\", emerge de las colinas toscanas como un sue\u00f1o medieval.",
+              "htmlContent_es": "Este lugar encantador se distingue por su distintivo horizonte marcado por las torres medievales que sobresalen en el paisaje. La ciudad conserva su arquitectura y ambiente original, evocando la \u00e9poca medieval. Sus calles empedradas, plazas adoquinadas y edificios de piedra transportan a los visitantes en un viaje en el tiempo. La Piazza del Duomo alberga la impresionante Catedral de San Gimignano y frescos renacentistas. Con su rica historia y vistas panor\u00e1micas, San Gimignano es un destino imperdible que permite experimentar el encanto medieval y la autenticidad toscana.",
+              "locationLat": "43.467716902461700",
+              "locationLon": "11.04255448775530"
+            }
+          ]
+        },
+        {
+          "day": "D5",
+          "title_es": "D\u00eda 5. Siena, Greve in Chianti",
+          "htmlDescription_es": "Exploraremos Siena con un anfitri\u00f3n local, visitaremos la Iglesia de San Domenico y la Plaza del Campo. Luego, en Greve in Chianti, disfrutaremos de la comida toscana en el Castello Vicchiomaggio.",
+          "htmlContent_es": "Nos dirigiremos a Siena, un tesoro toscano que nos espera con los brazos abiertos. Nuestro anfitri\u00f3n local nos guiar\u00e1 en un viaje fascinante. Visitaremos la Iglesia de San Domenico, donde brillan las reliquias de Santa Catarina, recordando la grandeza de la fe y la historia en cada piedra. Admiraremos el Palacio del Monte dei Paschi di Siena, testigo de la tradici\u00f3n financiera europea. La ic\u00f3nica Plaza del Campo nos emocionar\u00e1 con su energ\u00eda y la tradici\u00f3n del Palio de Siena. Luego, en Greve in Chianti, en el Castello Vicchiomaggio, saborearemos la esencia culinaria de la regi\u00f3n. Una jornada enriquecedora, conect\u00e1ndonos con la aut\u00e9ntica esencia de la Toscana. Alojamiento en Florencia.",
+          "resourceIDs": [
+            {
+              "externalID": "IT016",
+              "title_es": "Siena",
+              "htmlDescription_es": "La joya medieval de la Toscana, hipnotiza con su encanto atemporal.",
+              "htmlContent_es": "Sus calles adoquinadas serpentean entre edificios centenarios y plazas hist\u00f3ricas, como la Piazza del Campo, donde la historia cobra vida. La Catedral de Santa Mar\u00eda es un prodigio arquitect\u00f3nico, una sinfon\u00eda de m\u00e1rmol y vitrales que inspira admiraci\u00f3n. Los sabores toscanos invaden los mercados y trattorias, invitando a degustar la aut\u00e9ntica cocina italiana. La espectacular Palio, una fren\u00e9tica carrera de caballos, encarna la pasi\u00f3n sienesa. La ciudad emana arte, desde la Galer\u00eda Nacional hasta los frescos de la Bas\u00edlica de San Francisco. En cada esquina, Siena teje su magia, sumergiendo al viajero en un cuento medieval que perdura en el presente.",
+              "locationLat": "43.3182408076309",
+              "locationLon": "11.330397548510400"
+            },
+            {
+              "externalID": "IT017",
+              "submap": "IT016",
+              "title_es": "Catedral de Siena",
+              "htmlDescription_es": "Una maravilla arquitect\u00f3nica que encarna la grandiosidad del estilo g\u00f3tico italiano. ",
+              "htmlContent_es": "Su fachada de m\u00e1rmol blanco y verde oscuro impresiona con la complejidad de sus detalles esculturales. Al entrar, la nave central abovedada revela la majestuosidad de la estructura. Las capillas laterales deslumbran con obras maestras art\u00edsticas y vitrales que tamizan la luz, creando un juego de colores en su interior. El suelo del coro es un mosaico incre\u00edblemente intrincado que cuenta historias b\u00edblicas. La c\u00fapula, dise\u00f1ada por Bernini, ofrece vistas panor\u00e1micas de Siena.",
+              "locationLat": "43.31784234830280",
+              "locationLon": "11.328907105741700"
+            },
+            {
+              "externalID": "IT018",
+              "submap": "IT016",
+              "title_es": "Iglesia de San Domenico",
+              "htmlDescription_es": "Un hito religioso e hist\u00f3rico de notable importancia. ",
+              "htmlContent_es": "Esta iglesia g\u00f3tica, construida en el siglo XIII, irradia una sobria elegancia con su fachada de piedra y campanario. En su interior, la nave y las capillas revelan una atm\u00f3sfera serena y devocional. Destaca la Capilla de Santa Fina, dedicada a la santa patrona local, con espl\u00e9ndidos frescos de Ghirlandaio. La iglesia tambi\u00e9n alberga reliquias y arte sacro de gran valor. Es un lugar donde la fe y la historia se entrelazan, ofreciendo a los viajeros la oportunidad de explorar la espiritualidad y la belleza art\u00edstica de San Gimignano.",
+              "locationLat": "43.320238901767100",
+              "locationLon": "11.327180270548800"
+            },
+            {
+              "externalID": "IT019",
+              "submap": "IT016",
+              "title_es": "Piazza del Campo",
+              "htmlDescription_es": "Un escenario donde la historia y la belleza convergen en un abrazo eterno.",
+              "htmlContent_es": "Esta plaza en forma de concha, inclinada y majestuosa, es famosa por su belleza y su pavimento de ladrillo con patrones geom\u00e9tricos \u00fanicos. En su centro, la Fonte Gaia y la Columna de la Libertad se destacan como puntos de referencia. Rodeada por el Palazzo Pubblico y la Torre del Mangia, la plaza es el escenario de il Palio, una emocionante y centenaria competencia ecuestre que involucra a los contrade (barrios) de Siena. Es un lugar donde la historia, la cultura y la comunidad se encuentran en armon\u00eda vibrante.",
+              "locationLat": "43.318514091057700",
+              "locationLon": "11.332495772190700"
+            },
+            {
+              "externalID": "IT020",
+              "title_es": "Greve in Chianti ",
+              "htmlDescription_es": "Ubicada en la regi\u00f3n de la Toscana, es una encantadora ciudad conocida como la \"puerta de entrada al Chianti\". ",
+              "htmlContent_es": "Rodeada de vi\u00f1edos y colinas ondulantes, esta localidad pintoresca es famosa por su vino Chianti Cl\u00e1sico. Su Plaza Matteotti, el coraz\u00f3n de Greve, es un punto focal lleno de vida con tiendas, restaurantes y la estatua de Giovanni da Verrazzano, el explorador del siglo XVI nacido aqu\u00ed. Adem\u00e1s, la iglesia de Santa Croce y el Museo del Vino del Chianti ofrecen una inmersi\u00f3n en la rica herencia vin\u00edcola de la zona. Greve in Chianti es un destino encantador para los amantes del vino y la cultura toscana.",
+              "locationLat": "43.582682930004900",
+              "locationLon": "11.319098911136100"
+            },
+            {
+              "externalID": "IT021",
+              "title_es": "Castello Vicchiomaggio",
+              "htmlDescription_es": "Un encantador castillo medieval que se alza sobre vi\u00f1edos y olivares.",
+              "htmlContent_es": "Este hist\u00f3rico edificio, que data del siglo XIV, ofrece un vistazo a la rica herencia de la regi\u00f3n del Chianti. Rodeado de un paisaje id\u00edlico, el castillo es una fusi\u00f3n de arquitectura antigua y comodidades modernas, con lujosas habitaciones, piscinas y un restaurante de alta cocina. Adem\u00e1s, se destaca por su producci\u00f3n de vinos y aceite de oliva de alta calidad. Es un destino \u00fanico que permite a los viajeros experimentar la autenticidad hist\u00f3rica y la belleza esc\u00e9nica de la regi\u00f3n vin\u00edcola de Chianti.",
+              "locationLat": "43.60932906298560",
+              "locationLon": "11.2853438170751"
+            }
+          ]
+        },
+        {
+          "day": "D6",
+          "title_es": "D\u00eda 6. Pisa y Lucca",
+          "htmlDescription_es": "Descubrimos Pisa m\u00e1s all\u00e1 de la Torre inclinada, explorando la majestuosa Piazza dei Miracoli. Luego, en el centro hist\u00f3rico y la Plaza Dante, sentimos la historia. En Lucca, una joya medieval, las murallas preservan la autenticidad del pasado, completando nuestro viaje en la Toscana llena de historia, arte y encanto.",
+          "htmlContent_es": "Exploramos la ciudad de Pisa m\u00e1s all\u00e1 de su ic\u00f3nica Torre inclinada, descubriendo milenios de historia y arte en la majestuosa Piazza dei Miracoli. Las monumentales estructuras desaf\u00edan la gravedad y reflejan la grandeza humana. Luego, en las callejuelas empedradas del centro hist\u00f3rico y la m\u00e1gica Plaza Dante, sentimos la historia en cada rinc\u00f3n. Nos dirigimos a Lucca, un tesoro medieval con antiguas murallas que preservan la autenticidad de tiempos pasados. Evoca una era de protecci\u00f3n y belleza, donde cada edificio nos transporta a un glorioso pasado de cultura y prosperidad, completando un viaje a trav\u00e9s de la Toscana llena de historia, arte y encanto. Alojamiento en Florencia.",
+          "resourceIDs": [
+            {
+              "externalID": "IT022",
+              "title_es": "Pisa",
+              "htmlDescription_es": "Una joya toscana a orillas del r\u00edo Arno que irradia encanto y esencia italiana. ",
+              "htmlContent_es": "En su coraz\u00f3n se encuentra la ic\u00f3nica Torre Inclinada de Pisa, un prodigio arquitect\u00f3nico que desaf\u00eda la gravedad. Esta torre, parte del conjunto monumental de la Piazza dei Miracoli, es un recordatorio de la audacia y la creatividad humanas. Las estrechas calles medievales de Pisa, bordeadas de edificios de colores c\u00e1lidos y encantadores caf\u00e9s al aire libre, invitan a explorar y a saborear la aut\u00e9ntica vida italiana. La catedral, el baptisterio y el camposanto de la plaza son testigos de una rica historia y arte. ",
+              "locationLat": "43.72224516432090",
+              "locationLon": "10.402429532011500"
+            },
+            {
+              "externalID": "IT023",
+              "submap": "IT031",
+              "title_es": "Torre de Pisa",
+              "htmlDescription_es": "Un famoso \u00edcono italiano conocido por su inclinaci\u00f3n \u00fanica y su belleza arquitect\u00f3nica",
+              "htmlContent_es": "Construida en el siglo XII, es famosa por su inclinaci\u00f3n inusual causada por asentamientos desiguales del suelo. La torre, de m\u00e1rmol blanco y granito, se compone de ocho niveles y destaca por su arquitectura rom\u00e1nica. Los viajeros pueden subir los escalones hasta la cima para disfrutar de una vista panor\u00e1mica de la ciudad. Es una combinaci\u00f3n impresionante de arte y arquitectura que simboliza la habilidad humana y sigue siendo un monumento atemporal a la perseverancia y al ingenio arquitect\u00f3nico.",
+              "locationLat": "43.72311462191530",
+              "locationLon": "10.39655409562650"
+            },
+            {
+              "externalID": "IT024",
+              "submap": "IT031",
+              "title_es": "Piazza dei Miracoli",
+              "htmlDescription_es": "Un conjunto arquitect\u00f3nico emblem\u00e1tico y reconocido a nivel mundial. ",
+              "htmlContent_es": "Tambi\u00e9n conocida como la Plaza de los Milagros, alberga la Catedral de Santa Mar\u00eda Asunta, la Torre de Pisa, el Baptisterio de San Juan y el Camposanto Monumental. Estas estructuras de m\u00e1rmol blanco representan un impresionante ejemplo de arquitectura rom\u00e1nica y g\u00f3tica. La catedral presenta una fachada exquisitamente decorada, mientras que la torre, ic\u00f3nica por su inclinaci\u00f3n, es una maravilla arquitect\u00f3nica. La plaza es un destino imperdible para quienes buscan sumergirse en la historia, la cultura y la arquitectura de Italia.",
+              "locationLat": "43.72337246063310",
+              "locationLon": "10.39472380612320"
+            },
+            {
+              "externalID": "IT025",
+              "submap": "IT031",
+              "title_es": "Baptisterio de Pisa",
+              "htmlDescription_es": "Una obra maestra de la arquitectura rom\u00e1nica en Italia, un monumento hist\u00f3rico que evoca la riqueza art\u00edstica y espiritual de Pisa.",
+              "htmlContent_es": "Construido en m\u00e1rmol blanco y gr\u00eds, su elegante dise\u00f1o circular presenta tres pisos con arcos y columnas. El interior es igualmente impresionante, con una c\u00fapula magn\u00edficamente decorada y una pila bautismal en el centro. Destacan los p\u00falpitos tallados y los relieves de estilo pisanos. Uno de sus mayores tesoros es el p\u00falpito de Nicola Pisano. Adem\u00e1s, la ac\u00fastica del baptisterio crea una experiencia \u00fanica al escuchar el eco que resuena en su interior.",
+              "locationLat": "43.72346355795640",
+              "locationLon": "10.394241995208300"
+            },
+            {
+              "externalID": "IT026",
+              "submap": "IT031",
+              "title_es": "Catedral de Pisa",
+              "htmlDescription_es": "Un espl\u00e9ndido ejemplo de arquitectura rom\u00e1nica en Italia, es un testamento de la riqueza art\u00edstica y espiritual de Pisa, atrayendo a viajeros de todo el mundo por su belleza y significado hist\u00f3rico.",
+              "htmlContent_es": "Conocida como la Catedral de Santa Mar\u00eda Asunta, su fachada de m\u00e1rmol blanco impresiona por su refinada ornamentaci\u00f3n. El interior alberga naves y columnas elegantes, y un techo de madera dorada. Destacan el p\u00falpito de Giovanni Pisano y la imponente l\u00e1mpara de Galileo Galilei. Adem\u00e1s, los mosaicos bizantinos y las obras de arte sacro a\u00f1aden a su esplendor.",
+              "locationLat": "43.72341109993160",
+              "locationLon": "10.395853576213900"
+            },
+            {
+              "externalID": "IT027",
+              "title_es": "Lucca",
+              "htmlDescription_es": "Una joya hist\u00f3rica rodeada de murallas medievales que abrazan su encanto.",
+              "htmlContent_es": "Sus calles adoquinadas serpentean entre edificios de ladrillo y casas con fachadas coloridas que parecen surgir de un cuadro renacentista. El casco antiguo es un remanso de tranquilidad, con plazas adoquinadas que albergan caf\u00e9s y tiendas de artesan\u00eda. La Catedral de San Mart\u00edn, con su esplendor g\u00f3tico, se yergue como un faro espiritual en medio de la ciudad. Pero lo m\u00e1s impresionante son las imponentes murallas, que rodean Lucca y se han convertido en un paseo arbolado con vistas panor\u00e1micas.",
+              "locationLat": "43.841979568770800",
+              "locationLon": "10.512151788552600"
+            }
+          ]
+        },
+        {
+          "day": "D7",
+          "title_es": "D\u00eda 7. Arezzo, Cortona y Montepulciano",
+          "htmlDescription_es": "Recorreremos Arezzo y su historia entrelazada con el arte. La Iglesia de San Francisco presenta frescos de Piero de la Francesca. Luego, en Cortona, vistas deslumbrantes y la Plaza de la Rep\u00fablica. En Montepulciano, calles adoquinadas y lugares emblem\u00e1ticos de espiritualidad y arte.",
+          "htmlContent_es": "Exploramos Arezzo, donde pasado y presente se funden en una rica historia y arte. La Iglesia de San Francisco alberga los frescos de Piero de la Francesca, \"La Leyenda de la Santa Cruz\", que nos transportan en el tiempo. Luego, en Cortona, una joya en lo alto de una colina, disfrutamos de vistas deslumbrantes. La Plaza de la Rep\u00fablica en Cortona es el coraz\u00f3n de nuestro recorrido, donde convergen siglos de historia y la esencia de una comunidad arraigada en su identidad. En Montepulciano, ciudad majestuosa sobre el \"Mons Politianus\", exploramos calles adoquinadas y lugares emblem\u00e1ticos como el santuario de la Madonna de San Biagio y la Plaza Grande del Duomo, sumergi\u00e9ndonos en \u00e9pocas doradas de espiritualidad y arte. Alojamiento en Montepulciano.",
+          "resourceIDs": [
+            {
+              "externalID": "IT028",
+              "title_es": "Arezzo",
+              "htmlDescription_es": "Ubicada en la regi\u00f3n de la Toscana, Italia, es una ciudad que rezuma historia y encanto. ",
+              "htmlContent_es": "Conocida por su herencia etrusca y romana, ofrece una riqueza de arquitectura y arte renacentista. La impresionante Piazza Grande alberga el Palazzo delle Logge y la Catedral de San Donato. Arezzo tambi\u00e9n es famosa por ser el lugar de nacimiento de artistas como Piero della Francesca, cuya obra maestra \"La Leyenda de la Vera Cruz\" se encuentra en la Bas\u00edlica de San Francesco. Con colinas ondulantes y vi\u00f1edos, es un destino que combina elegancia hist\u00f3rica, autenticidad cultural y la belleza natural caracter\u00edstica de la Toscana.",
+              "locationLat": "43.46358780466690",
+              "locationLon": "11.880645791445000"
+            },
+            {
+              "externalID": "IT029",
+              "title_es": "Cortona",
+              "htmlDescription_es": "Enclavada en la dulce colina de la Toscana, es un poema viviente de historia y encanto.",
+              "htmlContent_es": "Sus callejuelas empedradas cuentan historias de siglos, mientras sus edificios de piedra evocan la esencia de la Italia medieval. Desde lo alto, su antigua fortaleza ofrece vistas que acarician el alma, mostrando un paisaje de vi\u00f1edos y olivares que se extienden hacia el horizonte. En el aire, se mezclan aromas de cipreses y lavanda, invitando a un viaje sensorial por sus plazas adoquinadas y caf\u00e9s acogedores. Aqu\u00ed, el arte y la cultura se abrazan en galer\u00edas y iglesias, y la vida transcurre en armon\u00eda con la naturaleza, regalando a quien la visita un deleite para los sentidos y la mente.",
+              "locationLat": "43.27497303937520",
+              "locationLon": "11.987026205514400"
+            },
+            {
+              "externalID": "IT030",
+              "title_es": "Montepulciano",
+              "htmlDescription_es": "Encaramada en una colina en la Toscana, es una joya arquitect\u00f3nica y enol\u00f3gica, un destino donde el vino, la historia y la arquitectura se fusionan armoniosamente.",
+              "htmlContent_es": "Conocida por su vino Vino Nobile, la ciudad ofrece calles adoquinadas, plazas hist\u00f3ricas y palacios renacentistas. La Piazza Grande es el epicentro, rodeada de imponentes edificios y la majestuosa Catedral de Santa Mar\u00eda Assunta. El Palazzo Comunale y la Torre del Reloj a\u00f1aden a su encanto. La Fortezza di Montepulciano proporciona vistas panor\u00e1micas. Sus bodegas y enotecas ofrecen degustaciones de vinos, permitiendo a los visitantes disfrutar de la autenticidad de la regi\u00f3n.",
+              "locationLat": "43.09878399148560",
+              "locationLon": "11.787678739971400"
+            }
+          ]
+        },
+        {
+          "day": "D8",
+          "title_es": "D\u00eda 8. Asi\u0301s y Perugia",
+          "htmlDescription_es": "Acompa\u00f1ados por nuestro anfitri\u00f3n, exploramos Bas\u00edlica de Santa Mar\u00eda degli Angeli y Bas\u00edlica de San Francisco en As\u00eds, siguiendo a San Francisco. En Perugia, rica historia y fe en monumentos como la Catedral de San Lorenzo y estatua del Papa Julio II.",
+          "htmlContent_es": "Acompa\u00f1ados por nuestro anfitri\u00f3n local, comenzamos en la Bas\u00edlica de Santa Mar\u00eda degli Angeli, siguiendo los pasos de San Francisco de As\u00eds. Descubrimos la Porci\u00fancula y la capilla donde el Santo encontr\u00f3 su paz eterna. Luego, en la majestuosa Bas\u00edlica de San Francisco, exploramos frescos que ilustran su vida, sumergi\u00e9ndonos en historia y fe. Cada paso en esta ciudad es como una plegaria, record\u00e1ndonos la devoci\u00f3n a lo largo de los siglos. La jornada contin\u00faa en Perugia, capital de la Umbria, donde la historia se revela en cada esquina. Exploramos puertas etrusco-romanas y la encantadora Plaza IV de noviembre. La Catedral de San Lorenzo y la estatua del Papa Julio II nos transportan al siglo XV, record\u00e1ndonos la importancia de la fe en la historia de la ciudad. Alojamiento en Roma.",
+          "resourceIDs": [
+            {
+              "externalID": "IT031",
+              "title_es": "As\u00eds",
+              "htmlDescription_es": "Ubicada en la regi\u00f3n de Umbr\u00eda, es una ciudad de encanto medieval y espiritualidad. ",
+              "htmlContent_es": "Famosa por ser la cuna de San Francisco, fundador de la Orden Franciscana, la ciudad est\u00e1 impregnada de su legado y espiritualidad. Sus calles empedradas y edificios antiguos llevan a la Bas\u00edlica de San Francisco, una obra maestra g\u00f3tica que alberga sus restos. La Bas\u00edlica de Santa Clara, dedicada a Santa Clara de As\u00eds, tambi\u00e9n es un punto destacado. Adem\u00e1s de su aspecto religioso, As\u00eds ofrece vistas panor\u00e1micas desde la colina sobre el valle de Umbr\u00eda, mostrando su rica naturaleza y arquitectura hist\u00f3rica, lo que la convierte en un destino \u00fanico.",
+              "locationLat": "43.0705378167723",
+              "locationLon": "12.618789207548900"
+            },
+            {
+              "externalID": "IT032",
+              "title_es": "Perugia",
+              "htmlDescription_es": "Ubicada en la regi\u00f3n de Umbr\u00eda, es una ciudad hist\u00f3rica y encantadora. ",
+              "htmlContent_es": "Su centro hist\u00f3rico, rodeado de murallas etruscas, es un laberinto de calles adoquinadas, plazas animadas y monumentos medievales. La Piazza IV Novembre, con la majestuosa Fontana Maggiore y la Catedral de San Lorenzo, es el coraz\u00f3n de la ciudad. Perugia es tambi\u00e9n conocida por ser un centro cultural, albergando la Universidad para Extranjeros y celebrando el famoso festival de chocolate Eurochocolate. Con su rica historia, arte renacentista y vibrante vida nocturna, Perugia cautiva a los viajeros, ofreciendo una experiencia aut\u00e9ntica de la belleza y la cultura italiana.",
+              "locationLat": "43.11049365290070",
+              "locationLon": "12.393396722942000"
+            }
+          ]
+        },
+        {
+          "day": "D9",
+          "title_es": "D\u00eda 9. Roma",
+          "htmlDescription_es": "Acompa\u00f1ados por nuestro anfitri\u00f3n local, exploraremos Roma, descubriremos sus tesoros ocultos y el Coliseo, pasando por el Arco de Constantino y el Circo M\u00e1ximo, explorando la historia, y visitando la Iglesia de Santa Mar\u00eda Mayor, llena de tesoros art\u00edsticos y espirituales.",
+          "htmlContent_es": "Acomp\u00e1\u00f1anos en una emocionante visita panor\u00e1mica de la ciudad guiada por expertos locales. Descubriremos los tesoros ocultos de Roma mientras exploramos el Coliseo y admiramos su majestuosidad desde fuera. Pasaremos junto al ic\u00f3nico Arco de Constantino y el antiguo Circo M\u00e1ximo, donde la historia cobra vida ante nuestros ojos. Nuestra traves\u00eda nos llevar\u00e1 a la fascinante Iglesia de Santa Mar\u00eda Mayor, donde encontraremos tesoros art\u00edsticos y espirituales que nos transportar\u00e1n a \u00e9pocas pasadas. Alojamiento en Roma.",
+          "resourceIDs": [
+            {
+              "externalID": "IT033",
+              "title_es": "Roma",
+              "htmlDescription_es": "La Ciudad Eterna, es un tributo a la grandeza humana con monumentos, arte y sabores que nos dejar\u00e1n sin palabras.",
+              "htmlContent_es": "Roma, la Ciudad Eterna, es un monumento a la grandeza humana y la historia inmortal. Sus calles empedradas, plazas y monumentos respiran siglos de legado. El majestuoso Coliseo se erige como un s\u00edmbolo de resistencia y esplendor antiguo, mientras el Foro Romano evoca la grandeza de la civilizaci\u00f3n romana. La Bas\u00edlica de San Pedro, con su c\u00fapula imponente, es un faro de fe y arquitectura grandiosa. Roma es un fest\u00edn para los sentidos, con su cocina exquisita, vinos generosos y gelato indulgente. Sus calles son un laberinto de arte, desde las obras maestras de Miguel \u00c1ngel en la Capilla Sixtina hasta las pintorescas fuentes y esculturas que adornan cada rinc\u00f3n. ",
+              "locationLat": "41.90476758676200",
+              "locationLon": "12.503020140028300"
+            },
+            {
+              "externalID": "IT034",
+              "submap": "IT033",
+              "title_es": "Coliseo Romano",
+              "htmlDescription_es": "Una maravilla arquitect\u00f3nica, es un faro de la grandeza antigua en el coraz\u00f3n de Roma.",
+              "htmlContent_es": "Este anfiteatro, construido en el siglo I d.C., evoca el esplendor del Imperio Romano. Sus imponentes arcos y muros de piedra arenisca cuentan historias de luchas \u00e9picas y entretenimiento grandioso. Su dise\u00f1o ingenioso permit\u00eda albergar a decenas de miles de espectadores en su interior. La arena, donde se libraban batallas de gladiadores y se exhib\u00edan espect\u00e1culos, es un recordatorio de la fascinaci\u00f3n humana por la competencia y la emoci\u00f3n. Hoy en d\u00eda, el Coliseo sigue siendo un \u00edcono de la arquitectura y la historia, una fuente de inspiraci\u00f3n y un recordatorio de la asombrosa capacidad de la humanidad para crear y perseverar a lo largo de los a\u00f1os.",
+              "locationLat": "41.890377864998600",
+              "locationLon": "12.492273822192200"
+            },
+            {
+              "externalID": "IT035",
+              "submap": "IT033",
+              "title_es": "Arco de Constantino",
+              "htmlDescription_es": "Una puerta al pasado glorioso de la ciudad.",
+              "htmlContent_es": "Erigido en el a\u00f1o 315 d.C., este monumento se alza en imponente resplandor cerca del Coliseo y el Foro Romano. Sus intrincadas esculturas y relieves narran la historia de Constantino el Grande y su victoria en la Batalla del Puente Milvio. Al pasar bajo su arco, uno se sumerge en la majestuosidad de la antigua Roma. Sus columnas corintias y frisos ornamentados son un testimonio de la habilidad art\u00edstica de la \u00e9poca. ",
+              "locationLat": "41.889905418602800",
+              "locationLon": "12.490644620872700"
+            }
+          ]
+        },
+        {
+          "day": "D10",
+          "title_es": "D\u00eda 10. El Vaticano y su Capilla Sixtina",
+          "htmlDescription_es": "En la Ciudad del Vaticano, disfrutamos de un viaje art\u00edstico \u00fanico, explorando la Bas\u00edlica de San Pedro, los Museos Vaticanos y la Capilla Sixtina, testigos del arte y la devoci\u00f3n. La majestuosa Plaza de San Pedro rinde tributo a la grandeza humana y nos inspira a buscar lo sublime a trav\u00e9s del arte y la fe.",
+          "htmlContent_es": "En la Ciudad del Vaticano, emprendemos un viaje art\u00edstico sin igual. La Bas\u00edlica de San Pedro evoca \u00e9pocas de esplendor y devoci\u00f3n, mientras que los Museos Vaticanos deleitan los sentidos con la maestr\u00eda de artistas como Bramante y Rafael en un eterno Renacimiento. La joya de la corona es la Capilla Sixtina de Miguel \u00c1ngel, donde cada pincelada es un susurro divino, una muestra de genialidad pura que nos deja sin aliento. La Plaza de San Pedro, con su majestuosidad, rinde tributo a la fe y a la creatividad humana, record\u00e1ndonos la capacidad de alcanzar lo sublime a trav\u00e9s del arte y la devoci\u00f3n. Alojamiento en Roma.",
+          "resourceIDs": [
+            {
+              "externalID": "IT036",
+              "title_es": "Ciudad del Vaticano",
+              "htmlDescription_es": "Un rinc\u00f3n sagrado donde la fe y la historia convergen, con tesoros como la Bas\u00edlica de San Pedro y la Capilla Sixtina.",
+              "htmlContent_es": "La Ciudad del Vaticano es un diminuto mundo aparte, un rinc\u00f3n sagrado donde la fe y la historia convergen. Este enclave independiente, el epicentro espiritual de la Iglesia Cat\u00f3lica, se alza en el coraz\u00f3n de Roma. El majestuoso enclave alberga tesoros como la Bas\u00edlica de San Pedro, con su ic\u00f3nica c\u00fapula, y la Capilla Sixtina, adornada con frescos inmortales de Miguel \u00c1ngel. Las columnatas de la Plaza de San Pedro abrazan a los peregrinos con brazos acogedores, y las estatuas y monumentos respiran la historia de la cristiandad. La Biblioteca Apost\u00f3lica Vaticana y los Museos Vaticanos albergan incontables tesoros art\u00edsticos y literarios.",
+              "locationLat": "41.902311482377400",
+              "locationLon": "12.453949077807900"
+            },
+            {
+              "externalID": "IT037",
+              "submap": "IT036",
+              "title_es": "Museos Vaticanos",
+              "htmlDescription_es": "Albergan un tesoro de arte y cultura, desde la Capilla Sixtina hasta las estancias de Rafael, un tributo a la creatividad y la historia.",
+              "htmlContent_es": "Los Museos Vaticanos son un tesoro de la humanidad, un compendio de arte y cultura en el coraz\u00f3n de la Ciudad del Vaticano. Este laberinto de galer\u00edas y pasillos alberga invaluables tesoros, desde obras maestras del Renacimiento italiano hasta antig\u00fcedades egipcias. El famoso techo de la Capilla Sixtina, pintado por Miguel \u00c1ngel, es un asombroso tributo a la creatividad humana. Las estancias de Rafael deslumbran con su belleza y elegancia. Esculturas antiguas y arte sacro se mezclan en un caleidoscopio de historia y significado. Cada rinc\u00f3n es una obra de arte en s\u00ed mismo, una celebraci\u00f3n de la creatividad y el conocimiento que ha florecido a lo largo de la historia.",
+              "locationLat": "41.906639454787200",
+              "locationLon": "12.453587661369700"
+            },
+            {
+              "externalID": "IT038",
+              "submap": "IT036",
+              "title_es": "Capilla Sixtina",
+              "htmlDescription_es": "Una obra maestra renacentista de Miguel \u00c1ngel, un santuario de belleza y espiritualidad que encierra la creatividad y el arte italiano.",
+              "htmlContent_es": "La Capilla Sixtina es un santuario de belleza divina, un logro supremo en el arte renacentista. Sus techos, pintados por el genio de Miguel \u00c1ngel, son un prodigio de creatividad y maestr\u00eda. Los frescos del G\u00e9nesis, que representan la Creaci\u00f3n de Ad\u00e1n, son la culminaci\u00f3n de la imaginaci\u00f3n humana. Las escenas b\u00edblicas que adornan las paredes y el altar son una sinfon\u00eda de color y emoci\u00f3n. Este rinc\u00f3n del Vaticano es un regalo para los sentidos y el alma, un lugar donde la belleza y la espiritualidad se abrazan en una danza eterna de creatividad y devoci\u00f3n.",
+              "locationLat": "41.90305853511010",
+              "locationLon": "12.454515690986700"
+            }
+          ]
+        },
+        {
+          "day": "D11",
+          "title_es": "D\u00eda 11. Regreso a casa",
+          "htmlContent_es": "Nuestro conductor privado nos llevar\u00e1 al Aeropuerto de Roma para emprender el regreso a casa.",
+          "resourceIDs": []
+        }
+      ]
+    }
+  ],
+  "$schema": "https://explora.handmadeexperiences.com/api/bw/v1/sync/schema.multiple.json"
+}
